@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with real-world data analysis projects and building practical analytics experience.
 - 📫 How to reach me: [Telegram](https://t.me/whoisjhongalt) | [Facebook](https://facebook.com/aziz.halilov.655501)
 - 😄 Pronouns: he/him
-🛠️ Tech Stack
+- 🛠️ Tech Stack
 Programming: Python
 Data Analysis: Pandas, NumPy
 Visualization: Matplotlib, Seaborn
